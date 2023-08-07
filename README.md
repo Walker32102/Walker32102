@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Srap Harutyunyan aka. Walker 32102.
-- 👀 I’m interested in Web Development. I code in JS (React).
+- 👀 I’m interested in Web Development. I code in JS/TS (React).
+- 🎨 My hobbies are Web designing, Game development, Music production.
 - 🌱 I’m currently learning TypeScript.
 
 <!---
